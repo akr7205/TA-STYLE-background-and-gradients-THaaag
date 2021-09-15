@@ -99,7 +99,7 @@ h1,h2,h3,h4,h5,h6,time{
     height: 300px;
     background-color: #ff0248;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 700;
 }
 .box2{
@@ -119,4 +119,5 @@ h1,h2,h3,h4,h5,h6,time{
     background: linear-gradient(to right bottom,transparent,rgba(237,20,62,0.5)),
     url(../multimedia/home.jpg) 50% 50% no-repeat;
     background-size: cover;
+    color: #fff;
 }
